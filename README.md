@@ -23,7 +23,7 @@ Facilitate negotiations with consumers. 🤝
 
 Identify potential business expansion opportunities in promising countries. 🌟
 
-💵 Finance Reports
+## 💵 Finance Reports
 🎯 Project Objectives:
 
 Profit and Loss (P&L) Report by Fiscal Year & Months: Analyze financial performance over different timeframes. 📆
@@ -48,7 +48,7 @@ Profit and Loss (P&L) Report by Markets: Examine profitability across various ma
 
 ▪ Instill confidence in the organization's financial outlook. 🏆
 
-🛠️ Technical Skills Gained:
+## 🛠️ Technical Skills Gained:
 ➥ Proficiency in ETL methodology (Extract, Transform, Load). 🔄
 
 ➥ Creation of date tables using Power Query. 🗓️
@@ -61,7 +61,7 @@ Profit and Loss (P&L) Report by Markets: Examine profitability across various ma
 
 ➥ Utilizing DAX to create calculated columns. 🧮
 
-🤝 Soft Skills Gained:
+## 🤝 Soft Skills Gained:
 ➥ Refined understanding of Sales and Finance Reports. 📖
 
 ➥ Designing user-centric reports with empathy in mind. 💡
